@@ -155,6 +155,6 @@ navigated to example.com
 saved screenshot to example.png
 ```
 
-## Future
+## Links
 
-A more detailed blog post about this will follow on how this works in the future.
+I wrote a blog post about this here: <https://github.com/justinwoo/my-blog-posts/blob/master/posts/2019-08-23-using-puppeteer-with-node2nix.md>
